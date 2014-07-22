@@ -3,6 +3,6 @@ Packaging
 
 Please sort packaging file as follows:
 
-item/distro
+``item/distro``
 
-For example, libtox/freebsd or toxic/debian.
+For example, ``libtox/freebsd`` or ``toxic/debian``.
